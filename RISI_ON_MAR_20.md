@@ -25,6 +25,8 @@
 
 还有就是想讲讲科研的创造力与书写,从家聪到wyl，主要是比如自己给wcy做的电路，也可以做很多事情
 
+seems that cames from my POOR SELF LUCDI poor memory.
+
 
 
 

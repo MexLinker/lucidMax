@@ -1,6 +1,6 @@
 Actions:
 
-1. go to hotel and have a good sleep
+
 
 2. jiacong ckt
 2.1 figure out the ckt from jiacong
@@ -23,6 +23,7 @@ Actions:
 10. publish the video of opening the box, cancel the noise of opening the plasic bag, may use the pr
 
 11. share this (MDs) on a git proj
+Q: after git init \ git add . \ git commit , how to push a reposoty to github?
 
 12. facing hard challege, you should devide ti to small tasks.
 read more on memos, there is a lot wisdom.s
