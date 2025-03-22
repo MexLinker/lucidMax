@@ -9,3 +9,9 @@
 8. which direction does the diode in mos point for
 9. ** Where vthln and vthlp are the voltage drop of the MOSFETs
 when they are diode-connected to a current source. **
+
+---
+
+https://metal.shanghaitech.edu.cn/publication/J72.pdf
+
+jiacong电路参考这个看，异曲同工嘛
